@@ -1,48 +1,79 @@
 # Hi, I’m Mark 👋
 
-I’m a **Management Consultant at Accenture Song** working at the intersection of **E-commerce, AI, and Cloud**.  
-I design and build **intelligent commerce systems** that scale, adapt, and unlock real business value.
+I’m a **Management Consultant at Accenture Song** working across four high-growth technology arenas: **AI Software, Cloud Services, Sales & E-commerce, and Digital Advertising**.
+
+I design and deliver **AI-powered commerce and revenue systems**, combining enterprise platforms, agentic AI, customer data, cloud architecture, and digital channels to solve real business problems.
 
 ---
 
 ## 🧠 What I Focus On
-- Intelligent & AI-powered commerce architectures  
-- Serverless and cloud-native backend systems  
-- Scalable APIs, event-driven design, and modern data flows  
-- Bridging strategy and hands-on implementation  
+
+* **AI Software:** Agentic AI, RAG, intelligent workflows, and applied AI engineering
+* **Cloud Services:** Cloud-native, serverless, API-first, and event-driven architectures
+* **Sales & E-commerce:** CRM, sales platforms, commerce experiences, recommendations, pricing, and revenue systems
+* **Digital Advertising:** Customer data, marketing technology, personalization, and digital growth
+* Bridging business strategy with hands-on technical implementation
 
 ---
 
-## 🚀 Featured Project
-### Serverless E-commerce Backend
-A production-ready, cloud-native e-commerce backend designed for scalability, performance, and future AI extensions.
+## 🚀 Featured Projects
+
+### 🎮 UdaPlay AI Research Agent
+
+An AI research agent for the video game industry combining **Retrieval-Augmented Generation (RAG)**, retrieval evaluation, tool use, and web-search fallback.
 
 **Highlights**
-- Serverless architecture (AWS)
-- Modular product, cart, and order services
-- Event-driven design for scale and resilience
-- Built with extensibility in mind (recommendations, search, pricing intelligence)
 
-👉 **Repo:** [Serverless E-Commerce Backend](https://github.com/MarkDSchulze/serverless-ecommerce-backend)
+* ChromaDB vector database with OpenAI embeddings
+* Semantic retrieval over structured game data
+* LLM-based retrieval evaluation
+* Tavily web-search fallback
+* Stateful, tool-using agent workflow
+* State-machine orchestration
+
+👉 **Repo:** [UdaPlay AI Research Agent](https://github.com/MarkDSchulze/udaplay-ai-research-agent)
+
+### 🛒 Serverless E-commerce Backend
+
+A **production-oriented reference architecture** for a cloud-native e-commerce backend designed for scalability, modularity, and future AI extensions.
+
+**Highlights**
+
+* Serverless architecture on AWS
+* Modular product, cart, and order services
+* Event-driven design
+* API-first architecture
+* Extensible foundation for search, recommendations, and pricing intelligence
+
+👉 **Repo:** [Serverless E-commerce Backend](https://github.com/MarkDSchulze/serverless-ecommerce-backend)
 
 ---
 
-## 🛠 Tech Stack
-- **Cloud:** AWS · GCP · Azure  
-- **Architecture:** Serverless · Event-driven · API-first  
-- **Commerce:** Headless & platform-agnostic backends  
-- **AI:** Intelligent search, recommendations, automation
+## 🛠 Tech & Platforms
+
+* **AI Software:** OpenAI · Agentic AI · RAG · Vector Search · ChromaDB
+* **Enterprise Platforms:** Salesforce · Microsoft
+* **Cloud Services:** AWS · Azure · GCP
+* **Architecture:** API-first · Event-driven · Serverless
+* **Sales & E-commerce:** CRM · Sales · Commerce · Pricing · Customer Data
+* **Digital Advertising & MarTech:** Marketing Technology · Personalization · Customer Data · Digital Growth
+* **Development:** Python · JavaScript · REST APIs
 
 ---
 
 ## 📈 Why This GitHub
-This space is where I document hands-on work, experiments, and reference architectures related to:
-- Modern commerce platforms
-- Cloud-native system design
-- AI-enabled business capabilities
+
+I use this GitHub to document hands-on projects and reference architectures across the four areas I’m most interested in:
+
+* **AI Software**
+* **Cloud Services**
+* **Sales & E-commerce**
+* **Digital Advertising**
+
+The common thread is building systems that connect **strategy, architecture, data, AI, and working technology** to drive customer and revenue outcomes.
 
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/mark-schulze
 
+* **LinkedIn:** https://www.linkedin.com/in/mark-schulze
