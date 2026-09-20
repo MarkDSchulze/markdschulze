@@ -1,6 +1,6 @@
 # Hi, I’m Mark 👋
 
-I’m a **Management Consultant at Accenture Song** working across four high-growth technology arenas: **AI Software, Cloud Services, Sales & Commerce, and Digital Advertising**.
+I’m a **Management Consulting Manager at Accenture Song** helping leading companies use **AI, cloud, and data** to grow revenue and improve customer experiences across **marketing, sales, and service**.
 
 I design and deliver **AI-powered commerce and revenue systems**, combining enterprise platforms, agentic AI, customer data, cloud architecture, and digital channels to solve real business problems.
 
