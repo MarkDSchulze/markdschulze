@@ -18,14 +18,14 @@ I design and deliver **AI-powered commerce and revenue systems**, combining ente
 
 ## 🚀 Featured Projects
 
-### 🎮 UdaPlay AI Research Agent
+### 🤖 AI Research Agent
 
-An AI research agent for the video game industry combining **Retrieval-Augmented Generation (RAG)**, retrieval evaluation, tool use, and web-search fallback.
+An AI research agent combining **Retrieval-Augmented Generation (RAG)**, retrieval evaluation, tool use, and web-search fallback.
 
 **Highlights**
 
 * ChromaDB vector database with OpenAI embeddings
-* Semantic retrieval over structured game data
+* Semantic retrieval over structured data
 * LLM-based retrieval evaluation
 * Tavily web-search fallback
 * Stateful, tool-using agent workflow
