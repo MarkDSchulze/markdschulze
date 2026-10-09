@@ -52,7 +52,7 @@ An AI research agent combining **Retrieval-Augmented Generation (RAG)**, retriev
 - Stateful, tool-using agent workflow
 - State-machine orchestration
 
-👉 **Repo:** https://github.com/MarkDSchulze/udaplay-ai-research-agent
+👉 **Repo:** https://github.com/MarkDSchulze/ai-research-agent
 
 ### 🛒 Serverless E-Commerce Backend
 
