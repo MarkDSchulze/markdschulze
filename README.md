@@ -85,6 +85,8 @@ A cloud-native e-commerce backend designed for scalability, modularity, and futu
 
 - Salesforce
 - Microsoft
+- Adobe
+- SAP
 
 ### Cloud
 
