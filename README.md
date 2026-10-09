@@ -8,15 +8,36 @@ I design and deliver **AI-powered commerce and revenue systems**, combining ente
 
 ## 🧠 What I Focus On
 
-* **AI Software:** Agentic AI, RAG, intelligent workflows, and applied AI engineering
-* **Cloud Services:** Cloud-native, serverless, API-first, and event-driven architectures
-* **Sales & Commerce:** CRM, sales platforms, commerce experiences, recommendations, pricing, and revenue systems
-* **Digital Advertising:** Customer data, marketing technology, personalization, and digital growth
-* Bridging business strategy with hands-on technical implementation
+- **AI Software:** Agentic AI, multi-agent systems, RAG, intelligent workflows, and applied AI engineering
+- **Cloud Services:** Cloud-native, serverless, API-first, and event-driven architectures
+- **Sales & Commerce:** CRM, sales platforms, commerce experiences, recommendations, pricing, and revenue systems
+- **Digital Advertising:** Customer data, marketing technology, personalization, and digital growth
+- Bridging business strategy with hands-on technical implementation
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Multi-Agent Business Operations System
+
+An AI-powered multi-agent system that automates quoting, inventory management, supplier coordination, financial validation, and order fulfillment through specialized agents and business tools.
+
+**Highlights**
+
+- Multi-agent architecture with orchestrator and worker agents
+- Automated quote generation using historical quote retrieval
+- Inventory validation and management workflows
+- Supplier lead-time and replenishment planning
+- Financial validation and cash balance checks
+- Transaction-based order fulfillment processing
+- SQLite-backed business operations platform
+- Tool-augmented AI workflows using Smolagents
+
+**Technologies**
+
+Python · SQLite · Pandas · SQLAlchemy · Smolagents · OpenAI-Compatible APIs
+
+👉 **Repo:** [Multi-Agent Business Operations System](https://github.com/MarkDSchulze/multi-agent-system)
 
 ### 🤖 AI Research Agent
 
@@ -24,51 +45,94 @@ An AI research agent combining **Retrieval-Augmented Generation (RAG)**, retriev
 
 **Highlights**
 
-* ChromaDB vector database with OpenAI embeddings
-* Semantic retrieval over structured data
-* LLM-based retrieval evaluation
-* Tavily web-search fallback
-* Stateful, tool-using agent workflow
-* State-machine orchestration
+- ChromaDB vector database with OpenAI embeddings
+- Semantic retrieval over structured data
+- LLM-based retrieval evaluation
+- Tavily web-search fallback
+- Stateful, tool-using agent workflow
+- State-machine orchestration
 
-👉 **Repo:** [UdaPlay AI Research Agent](https://github.com/MarkDSchulze/udaplay-ai-research-agent)
+👉 **Repo:** https://github.com/MarkDSchulze/udaplay-ai-research-agent
 
-### 🛒 Serverless E-commerce Backend
+### 🛒 Serverless E-Commerce Backend
 
-A **production-oriented reference architecture** for a cloud-native e-commerce backend designed for scalability, modularity, and future AI extensions.
+A cloud-native e-commerce backend designed for scalability, modularity, and future AI extensions.
 
 **Highlights**
 
-* Serverless architecture on AWS
-* Modular product, cart, and order services
-* Event-driven design
-* API-first architecture
-* Extensible foundation for search, recommendations, and pricing intelligence
+- Serverless architecture on AWS
+- Modular product, cart, and order services
+- Event-driven design
+- API-first architecture
+- Extensible foundation for search, recommendations, and pricing intelligence
 
-👉 **Repo:** [Serverless E-commerce Backend](https://github.com/MarkDSchulze/serverless-ecommerce-backend)
+👉 **Repo:** https://github.com/MarkDSchulze/serverless-ecommerce-backend
 
 ---
 
 ## 🛠 Tech & Platforms
 
-* **AI Software:** OpenAI · Agentic AI · RAG · Vector Search · ChromaDB
-* **Enterprise Platforms:** Salesforce · Microsoft
-* **Cloud Services:** AWS · Azure · GCP
-* **Architecture:** API-first · Event-driven · Serverless
-* **Sales & Commerce:** CRM · Sales · Commerce · Pricing · Customer Data
-* **Digital Advertising & MarTech:** Marketing Technology · Personalization · Customer Data · Digital Growth
-* **Development:** Python · JavaScript · REST APIs
+### AI & Automation
+
+- OpenAI
+- Agentic AI
+- Multi-Agent Systems
+- RAG
+- Vector Search
+- ChromaDB
+
+### Enterprise Platforms
+
+- Salesforce
+- Microsoft
+
+### Cloud
+
+- AWS
+- Azure
+- Google Cloud
+
+### Architecture
+
+- API-First
+- Event-Driven
+- Serverless
+- Distributed Systems
+
+### Sales & Commerce
+
+- CRM
+- Sales
+- Commerce
+- Pricing
+- Customer Data Platforms
+
+### Marketing & Customer Experience
+
+- Marketing Technology
+- Personalization
+- Digital Advertising
+- Customer Data
+- Revenue Growth
+
+### Development
+
+- Python
+- JavaScript
+- REST APIs
+- SQL
 
 ---
 
 ## 📈 Why This GitHub
 
-I use this GitHub to document hands-on projects and reference architectures across the areas I’m most interested in:
+I use GitHub to document applied projects and reference architectures across the areas I’m most passionate about:
 
-* **AI Software**
-* **Cloud Services**
-* **Sales & Commerce**
-* **Digital Advertising & Marketing**
+- **AI Software**
+- **Multi-Agent Systems**
+- **Cloud Services**
+- **Sales & Commerce**
+- **Digital Advertising & Marketing**
 
 The common thread is building systems that connect **strategy, architecture, data, AI, and working technology** to drive customer and revenue outcomes.
 
@@ -76,4 +140,4 @@ The common thread is building systems that connect **strategy, architecture, dat
 
 ## 📫 Let’s Connect
 
-* **LinkedIn:** https://www.linkedin.com/in/mark-schulze
+- **LinkedIn:** https://www.linkedin.com/in/mark-schulze
